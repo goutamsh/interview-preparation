@@ -28,7 +28,7 @@ Join tech groups
 
 Soft skills
 
-#Solving Algorithm based problems:
+# Solving Algorithm based problems:
 
 Basic process to tackle such problems:
 1. Read the problem completely atleast twice and make sure you understand the problem
